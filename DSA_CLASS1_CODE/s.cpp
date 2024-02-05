@@ -7,3 +7,5 @@ int main()            //This is the main function, where the program execution b
 	cout << sizeof(mynumbers);//This line prints the size (in bytes) of the "mynumbers" array to the standard output (console).
 	return 0;        //The main function returns an integer value, usually 0 to indicate successful execution.
 }
+
+//changed
